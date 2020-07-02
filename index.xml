@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Neuber</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Neuber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/thomas-neuber</url>
+      <title>Thomas Neuber</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Diffusion of Being Pivotal and Immoral Outcomes</title>
+      <link>/publication/diffusion-of-being-pivotal/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/diffusion-of-being-pivotal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivated by Others’ Preferences? An Experiment on Imperfect Empathy</title>
+      <link>/publication/imperfect-empathy/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/imperfect-empathy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
