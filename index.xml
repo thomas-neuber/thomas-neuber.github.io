@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Neuber</title>
+    <link>https://thomas-neuber.github.io/</link>
+    <description>Recent content on Thomas Neuber</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://thomas-neuber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diffusion of Being Pivotal and Immoral Outcomes</title>
+      <link>https://thomas-neuber.github.io/research/published_papers/diffusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas-neuber.github.io/research/published_papers/diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Norm Adoption</title>
+      <link>https://thomas-neuber.github.io/research/current_research/ena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas-neuber.github.io/research/current_research/ena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limited Self-knowledge and Survey Response Behavior</title>
+      <link>https://thomas-neuber.github.io/research/current_research/sura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas-neuber.github.io/research/current_research/sura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivated by Others&#39; Preferences? An Experiment on Imperfect Empathy</title>
+      <link>https://thomas-neuber.github.io/research/working_papers/impemp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas-neuber.github.io/research/working_papers/impemp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
