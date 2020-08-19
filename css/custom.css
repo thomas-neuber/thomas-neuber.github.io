@@ -5,6 +5,9 @@
 .large {
     font-size: 1.1em;
 }
+.nowrap {
+    white-space: nowrap;
+}
 h1 {
     font-size: 2em;
 }
@@ -21,10 +24,12 @@ h3 {
 h4 {
     font-size: 1em;
 }
-.viewMore[aria-expanded="false"]:before{
-    content:"Show abstract";
+.showAbstract[aria-expanded="false"]::after {
+    font-family: FontAwesome;
+    content: " \f078";
 }
 
-.viewMore[aria-expanded="true"]:before{
-    content:"Hide abstract";
+.showAbstract[aria-expanded="true"]::after {
+    font-family: FontAwesome;
+    content: " \f077";
 }
