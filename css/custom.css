@@ -1,25 +1,30 @@
+body {
+}
 .justified {
     text-align: justify;
     text-justify: inter-word;
 }
 .large {
-    font-size: 1.1em;
+    font-size: 1em;
 }
 .nowrap {
     white-space: nowrap;
 }
 h1 {
     font-size: 2em;
+    font-family: "Open Sans", sans-serif;
 }
 h2 {
     font-size: 1.5em;
     margin-top: 1em;
     margin-bottom: .5em;
+    font-family: "Open Sans", sans-serif;
 }
 h3 {
     font-size: 1.25em;
     margin-top: 1em;
     margin-bottom: .5em;
+    font-family: "Open Sans", sans-serif;
 }
 h4 {
     font-size: 1em;
