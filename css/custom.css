@@ -4,9 +4,6 @@ body {
     text-align: justify;
     text-justify: inter-word;
 }
-.large {
-    font-size: 1em;
-}
 .nowrap {
     white-space: nowrap;
 }
