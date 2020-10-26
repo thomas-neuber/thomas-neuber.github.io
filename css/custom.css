@@ -1,4 +1,6 @@
-body {
+* {
+    font-family: 'EB Garamond', serif;
+    font-size: large;
 }
 .justified {
     text-align: justify;
@@ -7,24 +9,32 @@ body {
 .nowrap {
     white-space: nowrap;
 }
+a {
+    color: RoyalBlue;
+}
+a:hover {
+    color: RoyalBlue;
+}
+.btn-link {
+    color: RoyalBlue;
+}
+.btn-link:hover {
+    color: RoyalBlue;
+}
 h1 {
-    font-size: 2em;
-    font-family: "Open Sans", sans-serif;
+    font-size: xx-large;
 }
 h2 {
-    font-size: 1.5em;
-    margin-top: 1.25em;
-    margin-bottom: 0.5em;
-    font-family: "Open Sans", sans-serif;
+    font-size: x-large;
 }
 h3 {
-    font-size: 1.25em;
-    margin-top: 1.25em;
-    margin-bottom: .5em;
-    font-family: "Open Sans", sans-serif;
+    font-size: large;
+    font-weight: 500;
 }
 h4 {
-    font-size: 1em;
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
 }
 .showAbstract[aria-expanded="false"]::after {
     font-family: FontAwesome;
