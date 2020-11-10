@@ -32,7 +32,7 @@ h1 {
 }
 h2 {
     font-size: x-large;
-    margin-bottom: -1ex;
+    margin-bottom: -0.5ex;
 }
 h3 {
     font-size: large;
@@ -44,7 +44,7 @@ h4 {
     font-style: italic;
 }
 hr {
-    border-color: #6c757d;
+    border-color: #d6d8d9;
 }
 .showAbstract[aria-expanded="false"]::after {
     font-family: FontAwesome;
