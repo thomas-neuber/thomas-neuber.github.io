@@ -4,6 +4,18 @@ body {
 .container {
     background-color: white;
 }
+.flex-container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+@supports (display: flex) {
+    .flex-container {
+        display: flex;
+        flex-flow: row wrap;
+        position: sticky; top: 0
+    }
+}
 * {
     font-family: 'EB Garamond', serif;
     font-size: large;
