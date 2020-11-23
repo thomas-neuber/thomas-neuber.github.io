@@ -1,8 +1,10 @@
-body {
-    background-color: #f7f7f7;
+* {
     font-family: 'EB Garamond', serif;
     font-size: 18px;
     line-height: 1.6;
+}
+body {
+    background-color: #f7f7f7;
 }
 .container {
     background-color: white;
