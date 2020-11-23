@@ -1,5 +1,6 @@
 body {
     background-color: #f7f7f7;
+    font-family: 'EB Garamond', serif;
 }
 .container {
     background-color: white;
@@ -15,10 +16,6 @@ body {
         flex-flow: row wrap;
         position: sticky; top: 0
     }
-}
-* {
-    font-family: 'EB Garamond', serif;
-    font-size: large;
 }
 .justified {
     text-align: justify;
@@ -40,17 +37,17 @@ a:hover {
     color: RoyalBlue;
 }
 h1 {
-    font-size: xx-large;
+    font-size: 1.5em;
 }
 h2 {
-    font-size: x-large;
+    font-size: 1.25em;
 }
 h3 {
-    font-size: large;
+    font-size: 1em;
     font-weight: 500;
 }
 h4 {
-    font-size: large;
+    font-size: 1em;
     font-weight: 500;
     font-style: italic;
 }
